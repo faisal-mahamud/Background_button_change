@@ -1,0 +1,15 @@
+.parent {
+        display: flex;
+      }
+
+      .btn {
+        padding: 10px;
+        margin: 0 auto;
+        border: none;
+        border-radius:10px;
+        width: 100px;
+        height: 50px;
+        color: #fff;
+        background: black;
+        font-size: 1rem;
+      }
